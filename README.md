@@ -12,6 +12,7 @@ This repository details a proposal to add a `launch_handler` field to the [web a
  - [Explainer](launch_handler.md)
  - [Draft spec](https://wicg.github.io/web-app-launch/)
 
+test
 
 There are two older proposals archived here:
  - [Declarative Link Capturing](declarative_link_capturing.md) which was replaced by `launch_handler`.
